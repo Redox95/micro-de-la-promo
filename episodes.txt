@@ -1,3 +1,4 @@
 episodes 1: la vie en alternance
-episodes 2: les assos de lecole
+episodes 2: les assos qui font bouger le campus
 episodes 3: apres le diplome
+
